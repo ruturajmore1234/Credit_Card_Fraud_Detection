@@ -4,7 +4,7 @@ Logistic Regression classifier along with SMOTE sampling technique is used for c
 
 Dataset = https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-#Conclusion:
+## Conclusion:
 
 |  Sampling   |       Model       |  SearchCV  |Scoring Metrics|Train_model_score|Test_model_score|best panalty|Best lambda|
 |-------------|-------------------|------------|---------------|----------------:|---------------:|------------|----------:|
